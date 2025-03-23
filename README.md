@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew-Pham545
 - 🌱 I’m currently learning Python Automation
-- 📫 How to reach me trungpro545@gmail.com
+- 📫 How to reach me andrewphamit@gmail.com
 
 
 <!---
