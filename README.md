@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Andrew-Pham545
-- 🌱 I’m currently learning Python Automation
+- 👋 Hi, I’m Andrew!
 - 📫 How to reach me andrewphamit@gmail.com
 
 
