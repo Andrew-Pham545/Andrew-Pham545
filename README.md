@@ -1,5 +1,5 @@
 - Hi, I’m Andrew!
-- How to reach me andrewphamit@gmail.com
+- for project related stuff project.andrewphamit@gmail.com
 
 
 <!---
